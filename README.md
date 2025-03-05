@@ -1,10 +1,10 @@
-## Welcome my space✨
+### Welcome my space✨
 
-### AI학과 4학년 재학중입니다😃
-### 딥러닝 & AI ..... 많은 것들을 배우는 중입니다...
+#### AI학과 4학년 재학중입니다😃
+#### 딥러닝 & AI 
 #### 📚 Python & C & Linux
 <br>
-## 📬 Contact
+### 📬 Contact
 - 📧 Email: eksgk0401@gmail.com
 
 
