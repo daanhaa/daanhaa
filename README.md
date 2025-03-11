@@ -1,11 +1,13 @@
 ### Welcome my space✨
 
-#### AI학과 4학년 재학중입니다😃
-#### 딥러닝 & AI 
+#### I'm in my 4th year of studying Artificial Intelligence. 😊
+#### Deep Learning & AI 
 #### 📚 Python & C & Linux
 <br>
-### 📬 Contact
+📬 Please contact me by email
 - 📧 Email: eksgk0401@gmail.com
+
+
 
 
 <!--
