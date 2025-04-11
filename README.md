@@ -17,7 +17,7 @@
 ---
 🌱
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daanhaa&theme=github" width="600" height="400">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daanhaa&theme=github" width="800" height="400">
 
 
 
